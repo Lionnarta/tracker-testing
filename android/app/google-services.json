@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99819123632",
+    "project_id": "tracker-testing-c51a6",
+    "storage_bucket": "tracker-testing-c51a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99819123632:android:8e970c0b4cfd8228cedc75",
+        "android_client_info": {
+          "package_name": "com.example.tracker_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQsQGbrnBoWYRv99fzS6K9o5pVzkEWug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
