@@ -16,6 +16,9 @@ dependencies:
   get_it: ^9.2.1
   firebase_crashlytics: ^5.2.0
   amplitude_flutter: ^4.5.0
+  amplitude_session_replay: ^0.1.0-alpha.14
+  posthog_flutter: ^5.24.0
+  mixpanel_flutter_session_replay: 0.1.0-beta.3
 
 dev_dependencies:
   flutter_test:
